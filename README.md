@@ -1,3 +1,5 @@
+## DOES NOT WORK YET. DO NOT USE
+
 # MultiplayerExtensions ![Steam/PC-Only](https://goobi.moe/badges/api/v2/text?text=Steam/PC-Only&widthPadding=-80) [![Build](https://github.com/Zingabopp/MultiplayerExtensions/workflows/Build/badge.svg?event=push)](https://github.com/Zingabopp/MultiplayerExtensions/actions?query=workflow%3ABuild+branch%3Amaster)
 A Beat Saber mod that expands Beat Saber's multiplayer functionality. **This is a work in progress which has bugs.**
 
